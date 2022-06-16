@@ -22,7 +22,9 @@ const- it's value cannot be modified
 3)Basics Operators
 
  i)Math operator(/ * + -)
+ 
  ii)Assignment operator(+= -+ *= /= x++ x-- ++x --x)
+ 
  iii)Comparision Operator(< > <= >=)
 
 ===================================
