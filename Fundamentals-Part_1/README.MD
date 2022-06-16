@@ -60,7 +60,7 @@ There are 5 falsy values: 0, '', undefined, null, NaN
 
 ===================================
 
-9)Equaility Operators == && === (Loose Equals & Tight equals)
+9)Equaility Operators == && === (Loose Equals & Strict equals)
 
 i) ( == ) operator: is also known as loose equality operator which is mainly used to compare two value on both the sides and then return true or false.
 
