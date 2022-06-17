@@ -94,16 +94,42 @@ ii)objectName['propertyName']
 
 ===============================
 
-7)Loops - for
+7)for loop-  loops through a block of code a number of times
 
 ==============================
 
 8)Loops Traversing-forward
 
+const names = ["lokesh", "kartik", "dhanaji", "ajinkya"];
+
+for (let j = 0; j < names.length; j++) {
+
+  console.log(names[j], typeof names[j]);
+  
+}
+
+
+
 ==============================
 
 9)Loops Tarversing Backward
 
+for (let k = names.length - 1; k >= 0; k--) {
+
+  console.log(names[k]);
+  
+}
+
 ==============================
 
-10. Loop -while
+10. while loop - loops through a block of code while a specified condition is true
+
+let a = 0;
+
+while (a < 5) {
+
+  console.log(a);
+  
+  a++;
+  
+}
