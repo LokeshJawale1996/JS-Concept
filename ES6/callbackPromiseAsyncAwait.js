@@ -30,6 +30,14 @@ function createData(newData) {
   });
 }
 
-createData({ name: "mayur", profession: "software engineer" })
+/* createData({ name: "mayur", profession: "software engineer" })
   .then(getDatas)
-  .catch((err) => console.log(err));
+  .catch((err) => console.log(err)); */
+
+//Async & Await
+async function start() {
+  await createData({ name: "mayur", profession: "software engineer" });
+  getDatas();
+}
+
+start();
