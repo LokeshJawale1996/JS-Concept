@@ -6,15 +6,23 @@ it is a block of code designed to perform a particular tasks
 
 it is executed when something invokes it.
 
-====================================
+====================================================================
 
 2)function declarations and expressions
 
-i)function declaration must be design with function
+i)function declaration : design with function
+function hello(){
+console.log("Hello Loki")
+}
 
-ii)function expression must be stored in variable
+ii)function expression : stored in variable
+const hello = () => {
+console.log("Hello Loki");
+}
 
-===================================
+hello();
+
+====================================================================
 
 3)Arrow functions
 
@@ -22,11 +30,11 @@ it is complete alternative to the functional expression
 
 const calSum = (a,b) => {
 
-return a * b;
+return a \* b;
 
 }
 
-===================================
+=====================================================================
 
 4)Arrays
 
@@ -36,9 +44,9 @@ declarations
 
 i)let arr = new Array();
 
-ii)let arr =  [];
+ii)let arr = [];
 
-==================================
+======================================================================
 
 5)Arrays Methods
 
@@ -62,7 +70,7 @@ ix)shift()-remove element from begining
 
 x)splice()-remove element by index position
 
-=================================
+====================================================================
 
 6)Objects
 
@@ -74,7 +82,7 @@ declarations
 
 i)let obj = new Object();
 
-ii)let obj =  {};
+ii)let obj = {};
 
 example: let user = {
 
@@ -92,44 +100,37 @@ i)objectName.propertyName
 
 ii)objectName['propertyName']
 
-===============================
+=====================================================================
 
-7)for loop-  loops through a block of code a number of times
+7)Loops
+for loop- loops through a block of code a number of times
 
-==============================
-
-8)Loops Traversing-forward
+Loops Traversing-forward
 
 const names = ["lokesh", "kartik", "dhanaji", "ajinkya"];
 
 for (let j = 0; j < names.length; j++) {
 
-  console.log(names[j], typeof names[j]);
-  
+console.log(names[j], typeof names[j]);
+
 }
 
-
-
-==============================
-
-9)Loops Tarversing Backward
+Loops Tarversing Backward
 
 for (let k = names.length - 1; k >= 0; k--) {
 
-  console.log(names[k]);
-  
+console.log(names[k]);
+
 }
 
-==============================
-
-10. while loop - loops through a block of code while a specified condition is true
+while loop - loops through a block of code while a specified condition is true
 
 let a = 0;
 
 while (a < 5) {
 
-  console.log(a);
-  
-  a++;
-  
-}
+console.log(a);
+
+a++;
+
+# }
