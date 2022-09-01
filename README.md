@@ -15,3 +15,5 @@ for clearing topic wise concept
 - [ES6- Closures](./ES6/closure.js)
 
 <h2>Data Structures Modern Operators and Strings</h2>
+
+- [DS-Array Destructing](./Data-Structures-Operators-strings/DS/arrayDestructing.js)
