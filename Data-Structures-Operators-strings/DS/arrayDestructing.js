@@ -18,6 +18,12 @@ const restaurant = {
 };
 
 //Array Destructing
+
+//The destructuring assignment syntax is a JavaScript expression that makes it possible
+//to unpack values from arrays, or properties from objects, into distinct variables.
+
+//The destructuring assignment uses similar syntax, but on the left-hand side of the assignment
+//to define what values to unpack from the sourced variable.
 const arr = [2, 3, 4];
 const a = arr[0];
 const b = arr[1];
