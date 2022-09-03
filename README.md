@@ -18,3 +18,8 @@ for clearing topic wise concept
 
 - [Array Destructing](./Data-Structures-Operators-strings/DS/arrayDestructing.js)
 - [Object Destructing](./Data-Structures-Operators-strings/DS/objectDestructing.js)
+
+<h3>Operators<h3>
+
+- [Spread Operator](./Data-Structures-Operators-strings/Operators/spreadOperator.js)
+- [Rest Parameter](./Data-Structures-Operators-strings/Operators/restPatternAndParameter.js)
