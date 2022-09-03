@@ -22,6 +22,7 @@ for clearing topic wise concept
 - [Looping With For Of Loop](./Data-Structures-Operators-strings/DS/LoopingForOfLoop.js)
 - [Optional Chaining](./Data-Structures-Operators-strings/DS/optionalChaining.js)
 - [Looping of Object Object keys,values and entries](./Data-Structures-Operators-strings/DS/loopingObjects.js)
+- [ES6 & DS: Sets](./Data-Structures-Operators-strings/DS/sets.js)
 
 <h3>Operators</h3>
 
