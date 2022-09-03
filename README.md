@@ -23,6 +23,7 @@ for clearing topic wise concept
 - [Optional Chaining](./Data-Structures-Operators-strings/DS/optionalChaining.js)
 - [Looping of Object Object keys,values and entries](./Data-Structures-Operators-strings/DS/loopingObjects.js)
 - [ES6 & DS: Sets](./Data-Structures-Operators-strings/DS/sets.js)
+- [ES6 & DS: Maps Fundamental and Iteration](./Data-Structures-Operators-strings/DS/maps.js)
 
 <h3>Operators</h3>
 

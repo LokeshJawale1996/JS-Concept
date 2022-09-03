@@ -1,49 +1,6 @@
-const weekdays = ['mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun'];
-const openingHours = {
-  //enhanced object literals
-  [weekdays[3]]: {
-    open: 12,
-    close: 22,
-  },
-  [weekdays[4]]: {
-    open: 11,
-    close: 23,
-  },
-  [weekdays[5]]: {
-    open: 0, // Open 24 hours
-    close: 24,
-  },
-};
-
-const restaurant = {
-  name: 'Classico Italiano',
-  location: 'Via Angelo Tavanti 23, Firenze, Italy',
-  categories: ['Italian', 'Pizzeria', 'Vegetarian', 'Organic'],
-  starterMenu: ['Focaccia', 'Bruschetta', 'Garlic Bread', 'Caprese Salad'],
-  mainMenu: ['Pizza', 'Pasta', 'Risotto'],
-  //Enhanced Object Literals
-  openingHours,
-
-  order(starterIndex, mainIndex) {
-    return [this.starterMenu[starterIndex], this.mainMenu[mainIndex]];
-  },
-
-  orderDelivery({ starterIndex = 1, mainIndex = 0, address, time = '20:00' }) {
-    console.log(
-      `Order Received! ${this.starterMenu[starterIndex]} and ${this.mainMenu[mainIndex]}
-       will be delivered to ${address} at ${time}`
-    );
-  },
-
-  orderPasta(ing1, ing2, ing3) {
-    console.log(`Here is your delicious pasta with ${ing1},${ing2},${ing3}`);
-  },
-
-  orderPizza(mainIngredients, ...otherIngredients) {
-    console.log(mainIngredients);
-    console.log(otherIngredients);
-  },
-};
+// this data structre concept is introduced in ES6
+// A JavaScript Set is a collection of unique values. Each value can only occur once in a Set.
+// A Set can hold any value of any data type.
 
 const orderSet = new Set([
   'Pasta',
