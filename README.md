@@ -24,3 +24,4 @@ for clearing topic wise concept
 - [Spread Operator](./Data-Structures-Operators-strings/Operators/spreadOperator.js)
 - [Rest Parameter](./Data-Structures-Operators-strings/Operators/restPatternAndParameter.js)
 - [Logical Operator(Short Circuiting && and ||)](./Data-Structures-Operators-strings/Operators/shortCircuiting.js)
+- [Logical Assignment Operator](./Data-Structures-Operators-strings/Operators/logicalAssignmentOperator.js)
