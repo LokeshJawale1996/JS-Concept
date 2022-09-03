@@ -18,6 +18,7 @@ for clearing topic wise concept
 
 - [Array Destructing](./Data-Structures-Operators-strings/DS/arrayDestructing.js)
 - [Object Destructing](./Data-Structures-Operators-strings/DS/objectDestructing.js)
+- [Looping With For Of Loop](./Data-Structures-Operators-strings/DS/LoopingForOfLoop.js)
 
 <h3>Operators</h3>
 
