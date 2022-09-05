@@ -4,7 +4,11 @@ for clearing topic wise concept
 
 <h2>1)Some Bsics Concept in JavaScript</h2>
 
-- [Data types,Varaibles,Basic Operators,Strings and Template Literals,If/else statements,Type Conversion and Coercion,Truthy and Falsy Values,Equaility Operators == && === (Loose Equals & Strict equals),Logical Operators,Switch Statement,Conditional Operator](./Fundamentals-Part_1/final/script.js)
+- [Complete guide](./Fundamentals-Part_1/README.MD)
+- [Short Guide](./Fundamentals-Part_1/starter/SHORTINFO.MD)
+- [Varibles, Data Types,Type Conversion and Coercion](./Fundamentals-Part_1/starter/basic1.js)
+- [Operators(Basic,Assignment,Comparison),Conditional Statement](./Fundamentals-Part_1/starter/basic2.js)
+- [Strings and Template Literals,Truthy and Falsy Values,Equaility Operators == && === (Loose Equals & Strict equals),Logical Operators,Switch Statement,Conditional Operator](./Fundamentals-Part_1/final/script.js)
 - [functions,arrow functions,Array,Array Methods,Objects,Loops](./Fundamental_Part_2/final/script.js)
 - [this Keyword](./this%20keyword/this.js)
 
