@@ -32,3 +32,7 @@ for clearing topic wise concept
 - [Rest Parameter](./Data-Structures-Operators-strings/Operators/restPatternAndParameter.js)
 - [Logical Operator(Short Circuiting && and ||)](./Data-Structures-Operators-strings/Operators/shortCircuiting.js)
 - [Logical Assignment Operator](./Data-Structures-Operators-strings/Operators/logicalAssignmentOperator.js)
+
+<h3>Strings</h3>
+
+- [string basics:length,indexOf,slice method](./Data-Structures-Operators-strings/strings/string.js)
