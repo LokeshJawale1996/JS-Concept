@@ -27,6 +27,7 @@ for clearing topic wise concept
 - [Which data structure to use](./Data-Structures-Operators-strings/DS/Which%20data%20structure%20is%20use.md)
 - [Coding challenge 1](./Data-Structures-Operators-strings/DS/codingChallenge1.js)
 - [Coding challenge 2](./Data-Structures-Operators-strings/DS/codingChallenge2.js)
+- [Coding challenge 3](./Data-Structures-Operators-strings/DS/challenge3.js)
 
 <h3>Operators</h3>
 
