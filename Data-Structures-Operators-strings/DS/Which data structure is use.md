@@ -1,25 +1,24 @@
 <h1>Which Data structure to use</h1>
 
 <h2>A)Data is coming from with Three ways</h2>
-i)program itself
-ii)From UI
-iii)from external source like web API
+<h5>i)program itself</h5>
+<h5>ii)From UI</h5>
+<h5>iii)from external source like web API</h5>
 
-for simple list use arrays and sets
-
-for key value pair data use Maps(key allows us to describe value)
+<h4>for simple list use arrays and sets</h4>
+<h4>for key value pair data use Maps(key allows us to describe value)</h4>
 
 <h2>B)ARRAYS VS SETS</h2>
 <h3>Arrays</h3>
-i)Use when yo need ordered list of values(might contain duplicates)
-ii)Use when you need to manipulate data
+<h5>i)Use when yo need ordered list of values(might contain duplicates)</h5>
+<h5>ii)Use when you need to manipulate data</h5>
 
 tasks = ["Code","Eat",Code"];
 
 <h3>SETS</h3>
-i)Use when you neeed to work with unique values.
-ii)Use when high-performance is really important.
-iii)Use to remove duplicates from arrays.
+<h5>i)Use when you neeed to work with unique values.</h5>
+<h5>ii)Use when high-performance is really important.</h5>
+<h5>iii)Use to remove duplicates from arrays.</h5>
 
 tasks = ["Code","Eat",Code"];
 
@@ -33,8 +32,8 @@ date: 'Today',
 repeat: true,
 };
 
-i)More 'traditional' Key/Value Store("abused" objects)
-ii)Easier to write and access values with. and []
+<h5>i)More 'traditional' Key/Value Store("abused" objects)</h5>
+<h5>ii)Easier to write and access values with. and []</h5>
 
 <h3>MAPS</h3>
 
@@ -45,7 +44,7 @@ const tasks = new Map([
 [false, 'start coding!'],
 ]);
 
-i)Better Performance
-ii)Keys can have any data type
-iii)Easy to iterate
-iv)Easy to iterate
+<h5>i)Better Performance</h5>
+<h5>ii)Keys can have any data type</h5>
+<h5>iii)Easy to iterate</h5>
+<h5>iv)Easy to iterate</h5>

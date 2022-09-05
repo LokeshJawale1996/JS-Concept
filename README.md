@@ -24,6 +24,7 @@ for clearing topic wise concept
 - [Looping of Object Object keys,values and entries](./Data-Structures-Operators-strings/DS/loopingObjects.js)
 - [ES6 & DS: Sets](./Data-Structures-Operators-strings/DS/sets.js)
 - [ES6 & DS: Maps Fundamental and Iteration](./Data-Structures-Operators-strings/DS/maps.js)
+- [Which data structure to use](./Data-Structures-Operators-strings/DS/Which%20data%20structure%20is%20use.md)
 
 <h3>Operators</h3>
 
