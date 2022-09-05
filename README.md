@@ -35,5 +35,6 @@ for clearing topic wise concept
 
 <h3>Strings</h3>
 
-- [string basics:length,indexOf,slice method](./Data-Structures-Operators-strings/strings/string.js)
+- [string basics:length,indexOf(),slice() method](./Data-Structures-Operators-strings/strings/string.js)
 - [String :toLowerCase(),toUpperCase(),trim(),includes(),replace(),replaceAll(),startsWith(),endsWith()](./Data-Structures-Operators-strings/strings/string-part1.js)
+- [String: join(),split(),padStart(),padEnd(),repeat()](./Data-Structures-Operators-strings/strings/string-part2.js)
