@@ -38,3 +38,4 @@ for clearing topic wise concept
 - [string basics:length,indexOf(),slice() method](./Data-Structures-Operators-strings/strings/string.js)
 - [String :toLowerCase(),toUpperCase(),trim(),includes(),replace(),replaceAll(),startsWith(),endsWith()](./Data-Structures-Operators-strings/strings/string-part1.js)
 - [String: join(),split(),padStart(),padEnd(),repeat()](./Data-Structures-Operators-strings/strings/string-part2.js)
+- [String Challenge 1](./Data-Structures-Operators-strings/strings/string-challenge.js)
