@@ -51,3 +51,4 @@ for clearing topic wise concept
 <h2>4)Functions</h2>
 
 - [Default Parameter](./Functions/starter/defaultParameter.js)
+- [Passing arguments](./Functions/starter/functionPassing.js)
