@@ -56,3 +56,5 @@ for clearing topic wise concept
 - [Functions accepting Callback functions](./Functions/starter/functionWithCallbackfunc.js)
 - [Functions Returning Functions](./Functions/starter/funRetFun.js)
 - [call,apply & bind methods](./Functions/starter/callAndApplyAndBind.js)
+- [IIFE:Immediately Invoked Function Expression](./Functions/starter/invokedFun.js)
+- [Challege 1](./Functions/starter/challenge1.js)
