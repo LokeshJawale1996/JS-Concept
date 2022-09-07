@@ -59,3 +59,4 @@ for clearing topic wise concept
 - [IIFE:Immediately Invoked Function Expression](./Functions/starter/invokedFun.js)
 - [Closures](./Functions/starter/closures.js)
 - [Challege 1](./Functions/starter/challenge1.js)
+- [Challenge 2](./Functions/starter/challenge2.js)
