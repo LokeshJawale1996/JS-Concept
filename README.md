@@ -55,5 +55,4 @@ for clearing topic wise concept
 - [First Class functions Vs Higer Order Functions](./Functions/starter/functionCalled.js)
 - [Functions accepting Callback functions](./Functions/starter/functionWithCallbackfunc.js)
 - [Functions Returning Functions](./Functions/starter/funRetFun.js)
-- [call and apply methods](./Functions/starter/callAndApply.js)
-- [bind Method](./Functions/starter/bind.js)
+- [call,apply & bind methods](./Functions/starter/callAndApplyAndBind.js)
