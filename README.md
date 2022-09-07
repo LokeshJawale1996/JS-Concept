@@ -53,3 +53,4 @@ for clearing topic wise concept
 - [Default Parameter](./Functions/starter/defaultParameter.js)
 - [Passing arguments](./Functions/starter/functionPassing.js)
 - [First Class functions Vs Higer Order Functions](./Functions/starter/functionCalled.js)
+- [Functions accepting Callback functions](./Functions/starter/functionWithCallbackfunc.js)
