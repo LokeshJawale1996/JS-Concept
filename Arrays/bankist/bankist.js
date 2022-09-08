@@ -78,5 +78,15 @@ const dispplayMovements = function (movements) {
   });
 };
 dispplayMovements(account1.movements);
+
+//reduce method to calculate balance
+const calcDisplayBalance = function (movements) {
+  const balance = movements.reduce((acc, mov) => acc + mov, 0);
+
+  labelBalance.textContent = `${balance} EUR`;
+};
+
+calcDisplayBalance(account1.movements);
+
 /////////////////////////////////////////////////
 /////////////////////////////////////////////////

@@ -67,6 +67,7 @@ for clearing topic wise concept
 - [ Array Looping Using forEach](./Arrays/starter/arrayLoopingforEach.js)
 - [ Map Method](./Arrays/Array-stuff/mapMethod.js)
 - [ Filter Method](./Arrays/Array-stuff/filter.js)
+- [ Reduce Method](./Arrays/Array-stuff/reduce.js)
 - [ Map and sets loopig using forEach](./Arrays/starter/forEachMapsAndSets.js)
 - [ Challenge 1:forEach](./Arrays/challenge/challenge1.js)
 - [ Bankist App](./Arrays/bankist/bankist.js)
