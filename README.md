@@ -70,4 +70,5 @@ for clearing topic wise concept
 - [ Reduce Method](./Arrays/Array-stuff/reduce.js)
 - [ Map and sets loopig using forEach](./Arrays/starter/forEachMapsAndSets.js)
 - [ Challenge 1:forEach](./Arrays/challenge/challenge1.js)
+- [ Challenge 2:map,filter,reduce method](./Arrays/challenge/challenge2.js)
 - [ Bankist App](./Arrays/bankist/bankist.js)
