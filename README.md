@@ -60,3 +60,7 @@ for clearing topic wise concept
 - [ES6: Closures](./Functions/starter/closures.js)
 - [Challenge 1](./Functions/starter/challenge1.js)
 - [Challenge 2](./Functions/starter/challenge2.js)
+
+<h2>5)Arrays</h2>
+
+- [ Array Methods:slice,splice,concat,join,reverse](./Arrays/starter/array1.js)
