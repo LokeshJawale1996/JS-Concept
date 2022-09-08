@@ -59,4 +59,16 @@ console.log([...arr1, ...arr2]);
 console.log(letters.join('-'));
 //a-b-c-d-e-f-g-h-i-j
 
+//AT
+const ar = [23, 11, 64];
+console.log(ar[0]); //23
+console.log(ar.at(0)); //23
+
+//getting the last element
+console.log(ar[ar.length - 1]); //64
+console.log(ar.slice(-1)[0]); //64
+console.log(ar.at(-1)); //64
+console.log(ar.at(-2)); //11
+console.log('lokesh'.at(0)); //l
+
 ///////////////////////////////////////////////////////////

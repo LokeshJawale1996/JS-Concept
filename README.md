@@ -63,4 +63,4 @@ for clearing topic wise concept
 
 <h2>5)Arrays</h2>
 
-- [ Array Methods:slice,splice,concat,join,reverse](./Arrays/starter/array1.js)
+- [ Array Methods:slice,splice,concat,join,reverse,at](./Arrays/starter/array1.js)
