@@ -69,6 +69,7 @@ for clearing topic wise concept
 - [ Filter Method](./Arrays/Array-stuff/filter.js)
 - [ Reduce Method](./Arrays/Array-stuff/reduce.js)
 - [ Method Chaining](./Arrays/Array-stuff/methodChaining.js)
+- [ Find Method](./Arrays/Array-stuff/find.js)
 - [ Map and sets loopig using forEach](./Arrays/starter/forEachMapsAndSets.js)
 - [ Challenge 1:forEach](./Arrays/challenge/challenge1.js)
 - [ Challenge 2:map,filter,reduce method](./Arrays/challenge/challenge2.js)
