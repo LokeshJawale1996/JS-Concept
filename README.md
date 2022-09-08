@@ -66,6 +66,7 @@ for clearing topic wise concept
 - [ Array Methods:slice,splice,concat,join,reverse,at](./Arrays/starter/arrayMethods.js)
 - [ Array Looping Using forEach](./Arrays/starter/arrayLoopingforEach.js)
 - [ Map Method](./Arrays/Array-stuff/mapMethod.js)
+- [ Filter Method](./Arrays/Array-stuff/filter.js)
 - [ Map and sets loopig using forEach](./Arrays/starter/forEachMapsAndSets.js)
 - [ Challenge 1:forEach](./Arrays/challenge/challenge1.js)
-- [ Bankist App](./Arrays/bankist/bankist.js);
+- [ Bankist App](./Arrays/bankist/bankist.js)
