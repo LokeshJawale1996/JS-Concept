@@ -65,3 +65,4 @@ for clearing topic wise concept
 
 - [ Array Methods:slice,splice,concat,join,reverse,at](./Arrays/starter/arrayMethods.js)
 - [ Array Looping Using forEach](./Arrays/starter/arrayLoopingforEach.js)
+- [ Map and sets loopig using forEach](./Arrays/starter/forEachMapsAndSets.js)
