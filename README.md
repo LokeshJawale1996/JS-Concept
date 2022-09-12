@@ -79,3 +79,4 @@ for clearing topic wise concept
 - [ Challenge 1:forEach](./Arrays/challenge/challenge1.js)
 - [ Challenge 2:map,filter,reduce method](./Arrays/challenge/challenge2.js)
 - [ Bankist App](./Arrays/bankist/bankist.js)
+- [ practice: Array Methods](./Arrays/practice.js)
