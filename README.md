@@ -77,6 +77,7 @@ for clearing topic wise concept
 - [ fill and Arrays.from Method](./Arrays/Array-stuff/fillAndArraysFrom.js)
 - [ Map and sets loopig using forEach](./Arrays/starter/forEachMapsAndSets.js)
 - [ Challenge 1:forEach](./Arrays/challenge/challenge1.js)
-- [ Challenge 2:map,filter,reduce method](./Arrays/challenge/challenge2.js)
+- [ Challenge 2 & 3:map,filter,reduce method](./Arrays/challenge/challenge2.js)
+- [ Challenge 4:find,some,flatMap,sort,some,filter,join Method](./Arrays/challenge/challenge4.js)
 - [ Bankist App](./Arrays/bankist/bankist.js)
 - [ practice: Array Methods](./Arrays/practice.js)
