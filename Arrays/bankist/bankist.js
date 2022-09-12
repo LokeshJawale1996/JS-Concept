@@ -232,4 +232,12 @@ btnSort.addEventListener('click', function (e) {
   sorted = !sorted;
 });
 
+labelBalance.addEventListener('click', function () {
+  const movementsUI = Array.from(
+    document.querySelectorAll('.movements__value')
+  );
+  console.log(movementsUI.map(el => Number(el.textContent)));
+  //[1300, 70, -130, -650, 3000, -400, 450, 200];
+});
+
 ///////////////////////////////////////////////

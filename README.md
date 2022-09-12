@@ -73,6 +73,7 @@ for clearing topic wise concept
 - [ Some and Every Method](./Arrays/Array-stuff/someAndEvery.js)
 - [ flat and flatMap](./Arrays/Array-stuff/flatAndFlatMAP.js)
 - [ sort Method](./Arrays/Array-stuff/sortingArrays.js)
+- [ fill and Arrays.from Method](./Arrays/Array-stuff/fillAndArraysFrom.js)
 - [ Map and sets loopig using forEach](./Arrays/starter/forEachMapsAndSets.js)
 - [ Challenge 1:forEach](./Arrays/challenge/challenge1.js)
 - [ Challenge 2:map,filter,reduce method](./Arrays/challenge/challenge2.js)
