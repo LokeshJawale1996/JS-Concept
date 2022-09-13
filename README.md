@@ -79,5 +79,13 @@ for clearing topic wise concept
 - [ Challenge 1:forEach](./Arrays/challenge/challenge1.js)
 - [ Challenge 2 & 3:map,filter,reduce method](./Arrays/challenge/challenge2.js)
 - [ Challenge 4:find,some,flatMap,sort,some,filter,join Method](./Arrays/challenge/challenge4.js)
-- [ Bankist App](./Arrays/bankist/bankist.js)
 - [ practice: Array Methods](./Arrays/practice.js)
+
+<h2>Bankist App</h2>\
+
+- [Bankist app](./bankist/bankist.js)
+
+<h2>6)Numbers Dates Timers</h2>
+
+- [Converting and Checking Numbers:parseInt,parseFloat,isNaN,isFinite,isInteger](./Numbers-Dates-Timers-Bankist/Numbers/number1.js)
+- [Math and Rounding:sqrt,trunc,max,min,ceil,floor,random,isFixed](./Numbers-Dates-Timers-Bankist/Numbers/number2.js)
