@@ -81,7 +81,7 @@ for clearing topic wise concept
 - [ Challenge 4:find,some,flatMap,sort,some,filter,join Method](./Arrays/challenge/challenge4.js)
 - [ practice: Array Methods](./Arrays/practice.js)
 
-<h2>Bankist App</h2>\
+<h2>Bankist App</h2>
 
 - [Bankist app](./bankist/bankist.js)
 
@@ -89,3 +89,4 @@ for clearing topic wise concept
 
 - [Converting and Checking Numbers:parseInt,parseFloat,isNaN,isFinite,isInteger](./Numbers-Dates-Timers-Bankist/Numbers/number1.js)
 - [Math and Rounding:sqrt,trunc,max,min,ceil,floor,random,isFixed](./Numbers-Dates-Timers-Bankist/Numbers/number2.js)
+- [The remainder Operator and Numeric Seperators](./Numbers-Dates-Timers-Bankist/Numbers/number3.js)
