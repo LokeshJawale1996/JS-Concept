@@ -73,3 +73,18 @@ const calsDayPassed = (date1, date2) =>
   Math.abs(date1 - date2) / (1000 * 60 * 60 * 24);
 const day1 = calsDayPassed(new Date(2037, 10, 24), new Date(2037, 10, 11));
 console.log(day1); //13
+
+//Internationalizing dates
+const date = new Date();
+
+// Specify default date formatting for language (locale)
+console.log(new Intl.DateTimeFormat(["en-US"]).format(date)); //9/14/2022
+
+// Specify date and time format using "style" options (i.e. full, long, medium, short)
+console.log(
+  new Intl.DateTimeFormat("en-GB", {
+    dateStyle: "full",
+    timeStyle: "long",
+  }).format(date)
+);
+//Wednesday, 14 September 2022 at 18:50:03 GMT+5:30
