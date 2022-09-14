@@ -1,5 +1,7 @@
 # JS-Concept
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lokeshjawale96.Js-Concept)
+
 for clearing topic wise concept
 
 <h2>1)Some Bsics Concept in JavaScript</h2>
