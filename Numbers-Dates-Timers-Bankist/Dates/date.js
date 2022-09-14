@@ -67,3 +67,9 @@ console.log(Date.now()); //1663137080330
 
 future.setFullYear(2040);
 console.log(future); //2040-11-19T09:53:00.000Z
+
+//Operation with dates
+const calsDayPassed = (date1, date2) =>
+  Math.abs(date1 - date2) / (1000 * 60 * 60 * 24);
+const day1 = calsDayPassed(new Date(2037, 10, 24), new Date(2037, 10, 11));
+console.log(day1); //13
