@@ -93,4 +93,5 @@ for clearing topic wise concept
 - [Math and Rounding:sqrt,trunc,max,min,ceil,floor,random,isFixed](./Numbers-Dates-Timers-Bankist/Numbers/number2.js)
 - [The remainder Operator and Numeric Seperators](./Numbers-Dates-Timers-Bankist/Numbers/number3.js)
 - [BigInt](./Numbers-Dates-Timers-Bankist/Numbers/number4.js)
-- [creating of Date,operatios with dates](./Numbers-Dates-Timers-Bankist/Dates/date.js)
+- [creating of Date,operatios with dates,Internationalizing Dates](./Numbers-Dates-Timers-Bankist/Dates/date.js)
+- [setTimeout and setInterval](./Numbers-Dates-Timers-Bankist/Numbers/setTimeoutAndsetInterval.js)
