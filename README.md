@@ -95,3 +95,5 @@ for clearing topic wise concept
 - [BigInt](./Numbers-Dates-Timers-Bankist/Numbers/number4.js)
 - [creating of Date,operatios with dates,Internationalizing Dates](./Numbers-Dates-Timers-Bankist/Dates/date.js)
 - [setTimeout and setInterval](./Numbers-Dates-Timers-Bankist/Numbers/setTimeoutAndsetInterval.js)
+
+<h2>7)OOP In Programming</h2>
