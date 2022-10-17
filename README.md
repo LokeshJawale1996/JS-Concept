@@ -98,5 +98,6 @@ for clearing topic wise concept
 
 <h2>7)OOP In Programming</h2>
 
-- [introduction of OOP in Programming](./OOP-In-Programming/constructorFunctions.js);
-- [Constructor Function and the new keyword](./OOP-In-Programming/constructorFunctions.js)
+- [introduction of OOP in Programming](./OOP-In-Programming/Readme.md);
+- [Constructor Function and the new keyword](./OOP-In-Programming/constructorFunctions.js);
+- [Prototype](./OOP-In-Programming/prototypes.js)
