@@ -42,5 +42,30 @@
 
 ### A child  class can overwrite a method it inherited from a parent class.[it's more comples that ,but enough for our purposes]
 
+# OOP in JS :Prototypes
+
+### Objects are linked to prototype object;
+### Prototypal inheritanceL The prototype contains methods (behaviour) that are accessible to all objects linked to that prototype.
+
+### Bahaviour is delegated to the linked prototype object.
+
+### Array.prototype is the prototype of all objects we craete in javaScript.therefore, all arrays have acccess to the map() method!
+
+## Three ways implementing prototypal Inheritance in JavaScript.
+
+### 1 Constructor functions
+#### Technique to create objects from functions
+#### This is how built-in objects
+
+### 2 ES6 classes
+#### Modern alternative to constructor function syntax;
+#### "Syntactic sugar": behind the scenes,ES6 classes work exactly like constrcutor functions;
+
+#### Modern alternative to constructor function syntax.
+#### "syntactic sugar" behind the scenes.ES6 classes work exactly like constructor functions
+#### ES6 classes do NOT behave like classes in "classical OOP" (last lecture)
+
+ ## 3 Object.create()
+ 
 
 
