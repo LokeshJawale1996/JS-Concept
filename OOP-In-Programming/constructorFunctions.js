@@ -13,8 +13,8 @@ const Person = function (firstName, birthYear) {
 
 const lokesh = new Person("lokesh", 1996);
 console.log(lokesh);
-//Person { firstName: 'lokesh', birthYear: 1996 }
 
+//Person { firstName: 'lokesh', birthYear: 1996 }
 //1. New {} is created
 //2.function is calles, this = {}
 //3. {} linked to prototype

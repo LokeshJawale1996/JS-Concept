@@ -32,3 +32,35 @@ console.log(lokesh.species,mayur.species);
 
 console.log(lokesh.hasOwnProperty('firstName'));//true
 console.log(lokesh.hasOwnProperty('species'));//false
+
+
+//Prototypal inheritance On Built in Objects
+console.log(lokesh.__proto__);
+//{ calAge: [Function (anonymous)], species: 'Homo Sapiens' }
+//Object.prototype (top of prototype chain)
+console.log(lokesh.__proto__.__proto__);
+//[Object: null prototype] {}
+
+console.log(lokesh.__proto__.__proto__.Person);
+//null
+
+console.log(Person.prototype.constructor);
+//[Function: Person]
+
+const arr = [3,6,3,5,6,8];
+console.log(arr.__proto__);
+console.log(arr.__proto__=== Array.prototype);//true
+console.log(arr.__proto__.__proto__);//[Object: null prototype] {}
+
+Array.prototype.unique = function(){
+return [...new Set(this)];
+}
+console.log(arr.unique());//[ 3, 6, 5, 8 ]
+
+
+let name = "lokesh";
+console.log(name.__proto__);
+
+const head = document.querySelector('h1');
+
+console.dir(x => x + 1);
