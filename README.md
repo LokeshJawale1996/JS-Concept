@@ -100,4 +100,5 @@ for clearing topic wise concept
 
 - [introduction of OOP in Programming](./OOP-In-Programming/Readme.md);
 - [Constructor Function and the new keyword](./OOP-In-Programming/constructorFunctions.js);
-- [Prototype](./OOP-In-Programming/prototypes.js)
+- [Prototype,Prototypal Inheritance of Built in Objects](./OOP-In-Programming/prototypes.js)
+- [ES6 Classes,Getters & Setters,static method](./OOP-In-Programming/es6Classes.js)
