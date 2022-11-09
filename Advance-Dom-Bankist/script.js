@@ -18,6 +18,8 @@ const closeModal = function () {
   overlay.classList.add('hidden');
 };
 
+btnsOpenModal.forEach(btn => btn.addEventListener('click',openModal));
+
 for (let i = 0; i < btnsOpenModal.length; i++)
   btnsOpenModal[i].addEventListener('click', openModal);
 
@@ -29,3 +31,38 @@ document.addEventListener('keydown', function (e) {
     closeModal();
   }
 });
+
+///////////////////////////////////////////////////
+//////////////////////////////////////////////////
+
+console.log(document.documentElement);
+console.log(document.head);
+console.log(document.body);
+
+const header =document.querySelector('.header');
+const allSections =document.querySelectorAll(".section");
+console.log(allSections);
+
+document.getElementById('section--1');
+
+const allButtons = document.querySelectorAll('button');
+console.log(allButtons);
+
+//Creating and inserting elements
+
+const message = document.createElement('div');
+message.classList.add("cookie-method");
+message.innerHTML= `We use cookied for improved functionality and analytics <button class="btn btn--close-cookie">Got it</button>`;
+
+header.prepend(message);
+// header.append(message);
+// header.append(message.cloneNode(true));
+
+header.before(message);
+header.after(message);
+
+//Delete elements
+document.querySelector(".btn--close-cookie").addEventListener("click",function(){
+// message.remove();
+message.parentElement.removeChild(message);
+})

@@ -102,3 +102,4 @@ for clearing topic wise concept
 - [Constructor Function and the new keyword](./OOP-In-Programming/constructorFunctions.js);
 - [Prototype,Prototypal Inheritance of Built in Objects](./OOP-In-Programming/prototypes.js)
 - [ES6 Classes,Getters & Setters,static method](./OOP-In-Programming/es6Classes.js)
+- [ Inheritance Between "Classes": Constructor Functions](./OOP-In-Programming/inheritance.js)
