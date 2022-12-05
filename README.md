@@ -118,10 +118,11 @@ for clearing topic wise concept
 | 06  |     setTimeout and setInterval   | [Code](./Numbers-Dates-Timers-Bankist/Numbers/setTimeoutAndsetInterval.js)  |
 
 
-|  #  |            Topic             | Source |
-| :-: | :----------------------------: | :-------: |
+
 ## 9)OOP In Programming
 
+|  #  |            Topic             | Source |
+| :-: | :----------------------------: | :-------: |
 | 01  |     introduction of OOP in Programming   | [Details](./OOP-In-Programming/Readme.md)  |
 | 02  |     Constructor Function and the new keyword   | [Code](./OOP-In-Programming/constructorFunctions.js)  |
 | 03  |     Prototype,Prototypal Inheritance of Built in Objects   | [Code](./OOP-In-Programming/prototypes.js)  |
