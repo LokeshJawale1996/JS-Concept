@@ -129,12 +129,14 @@ for clearing topic wise concept
 | 04  |     ES6 Classes,Getters & Setters,static method   | [Code](./OOP-In-Programming/es6Classes.js)  |
 | 05  |     Inheritance Between "Classes": Constructor Functions   | [Code](./OOP-In-Programming/inheritance.js)  |
 
-## Asynchronous JavaScript: Promises, Async/Await, and AJAX
+## 10)Asynchronous JavaScript: Promises, Async/Await, and AJAX
 
 |  #  |            Topic             | Source |
 | :-: | :----------------------------: | :-------: |
 | 01  |     Asynchronous Js-AJAX First Call   | [Code](./Asynchronous/js/firstAjaxCall.js)  |
 | 02  |     Callback Hell   | [Code](./Asynchronous/js/callbackHell.js)  |
+| 03  |     Promise   | [Code](./Asynchronous/js/promiseFetch.js)  |
+| 04  |     Promise Chaining  | [Code](./Asynchronous/js/promiseChaining.js)  |
 
 ## App
 
