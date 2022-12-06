@@ -39,7 +39,7 @@ body {
   background-color: #fff;
   box-shadow: 0 2rem 5rem 1rem rgba(0, 0, 0, 0.1);
   font-size: 1.8rem;
-  width: 30rem;
+  width: 35rem;
   border-radius: 0.7rem;
   margin: 0 3rem;
   /* overflow: hidden; */
@@ -64,7 +64,7 @@ body {
 }
 
 .country__img {
-  width: 30rem;
+  width: 35rem;
   height: 17rem;
   object-fit: cover;
   background-color: #eee;

@@ -16,6 +16,15 @@ request.addEventListener('load',function(){
  const [data] = JSON.parse(this.responseText);
  console.log(data);
 
+let languages ='';
+let currencies= '';
+for (let i in data.languages) {
+  languages += data.languages[i] + ",";
+ 
+}
+for (let j in data.currencies) {
+  currencies +=data.currencies[j].name;
+}
  const html = `
  <article class="country">
  <img class="country__img" src="${data.flags.svg}" />
@@ -23,7 +32,9 @@ request.addEventListener('load',function(){
    <h3 class="country__name">${data.name.common}</h3>
    <h4 class="country__region">${data.region}</h4>
    <p class="country__row"><span>👫</span>${(+data.population/1000000).toFixed(1)} M</p>
- 
+   <p class="country__row"><span>🗣️</span>${languages}</p>
+   <p class="country__row"><span>💰</span>${currencies}</p>
+
  </div>
 </article>
  `
@@ -35,3 +46,4 @@ request.addEventListener('load',function(){
 
 getCountryData('peru');
 getCountryData('india');
+
