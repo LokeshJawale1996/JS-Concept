@@ -137,6 +137,8 @@ for clearing topic wise concept
 | 02  |     Callback Hell   | [Code](./Asynchronous/js/callbackHell.js)  |
 | 03  |     Promise   | [Code](./Asynchronous/js/promiseFetch.js)  |
 | 04  |     Promise Chaining  | [Code](./Asynchronous/js/promiseChaining.js)  |
+| 05  |     Promise Asyc Behavoiur  | [Code](./Asynchronous/js/simplePromise.js)  |
+
 
 ## App
 
