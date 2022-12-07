@@ -138,6 +138,9 @@ for clearing topic wise concept
 | 03  |     Promise   | [Code](./Asynchronous/js/promiseFetch.js)  |
 | 04  |     Promise Chaining  | [Code](./Asynchronous/js/promiseChaining.js)  |
 | 05  |     Promise Asyc Behavoiur  | [Code](./Asynchronous/js/simplePromise.js)  |
+| 06  |     Promise With Async and Await  | [Code](./Asynchronous/js/promiseWithAsyncAndAwait.js)  |
+| 07  |     Try and Catch  | [Code](./Asynchronous/js/tryAndCatch.js)  |
+| 08  |     Running Promises in Parallel  | [Code](./Asynchronous/js/runningParallelPromises.js)  |
 
 
 ## App
