@@ -15,6 +15,7 @@ for clearing topic wise concept
 | 05  |     Strings and Template Literals,Truthy and Falsy Values,Equaility Operators == && === (Loose Equals & Strict equals),Logical Operators,Switch Statement,Conditional Operator     | [Code](./Fundamentals-Part_1/final/script.js)  |
 | 06  |     functions,arrow functions,Array,Array Methods,Objects,Loops    | [Code](./Fundamental_Part_2/final/script.js) |
 | 07  |     this keyword     | [Code](./this%20keyword/this.js) |
+| 08  |     DOM and BOM     | [Code](./Fundamentals/dom_bom.js) |
 
 
 
